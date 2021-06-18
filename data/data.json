@@ -1,0 +1,12 @@
+{
+	"valid": {
+		"user1": {
+			"username": "Amrut1@gmail.com",
+			"password": "Amrut123"
+		},
+		"user2": {
+			"username": "Amrut2@gmail.com",
+			"password": "Amrut1234"
+		}
+	}
+}
